@@ -64,7 +64,7 @@ namespace Multiverse
         ///   needs to check that it is up to date, and fetch the patcher if
         ///   required.
         /// </summary>
-        public static string UpdateUrl = "http://update.multiverse.net/mvupdate.client/";
+        public static string UpdateUrl = "http://app.lrhobbies.com/multiverse/website/update/";
         /// <summary>
         ///   The base for login urls.  The --login_page argument is appended 
         ///   to this.
